@@ -1,3 +1,3 @@
 git config --global user.name "thiagoHerrera"
-PS C:\Users\Alumnos\Desktop\practicas> git config --global user.email "tititomash@gmail.com" 
+git config --global user.email "tititomash@gmail.com" 
  
